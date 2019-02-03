@@ -10,11 +10,13 @@ This is a boilerplate for any project.  It does not contain determining framewor
 
 ## Accolades
 - Alex Modovan. (https://medium.freecodecamp.org/adding-some-air-to-the-airbnb-style-guide-3df40e31c57a) Improvement on AirBnB eslint styleguide.
+- Wes Bos.  (https://www.youtube.com/watch?v=YIvjKId9m2c)  Getting eslint/prettier to work inside VS Code.
 
 ### Node Technologies:
 - NODE: version 8 or above.  NPM: version 6 or above.
 - Eslint: 
 - Prettier: Making sure that my code is easily read by other programmers in one style.
+  - I am using VSCode.  You do not need to install the prettier VSCode extension since we are doing it through project's eslint.
 - Babel: Transpiling advanced javascript code. At this point, taking care of the 'imports' and 'exports default' statement
 - NYC: for code coverage. tracking api reliability
 
