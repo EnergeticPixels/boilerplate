@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.1",
+  "description": "Project boilerplate for any project. This sets up eslint, prettier, babel, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Jackman <energeticpixels@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "babel",
+    "prettier",
+    "node",
+    "es8"
+  ],
+  "bugs": {
+    "url": "https://github.com/EnergeticPixels/boilerplate/issues"
+  },
+  "homepage": "https://github.com/EnergeticPixels/boilerplate#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnergeticPixels/boilerplate.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
