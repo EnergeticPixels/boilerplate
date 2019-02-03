@@ -7,6 +7,7 @@ This is a boilerplate for any project.  It does not contain determining framewor
 ## Development Methodology:
 * Just the basics.
 * Each project started from this boilerplate will need to modify these settings ever so slightly depending on that project's specific needs.
+* I have added testing frameworks and nodemon/pm2 to the package.json as I know all of these will be used no matter if I am developing front-end or back-end applications.
 
 ## Accolades
 - Alex Modovan. (https://medium.freecodecamp.org/adding-some-air-to-the-airbnb-style-guide-3df40e31c57a) Improvement on AirBnB eslint styleguide.
@@ -18,7 +19,6 @@ This is a boilerplate for any project.  It does not contain determining framewor
 - Prettier: Making sure that my code is easily read by other programmers in one style.
   - I am using VSCode.  You do not need to install the prettier VSCode extension since we are doing it through project's eslint.
 - Babel: Transpiling advanced javascript code. At this point, taking care of the 'imports' and 'exports default' statement
-- NYC: for code coverage. tracking api reliability
 
 ###  TODOs
 - None assigned yet.
@@ -27,6 +27,6 @@ This is a boilerplate for any project.  It does not contain determining framewor
 If you're new to Node.js, these steps will get you started. Advanced users may want to look at the start-node.bat script and configure it for their environment. *nix shell scripts are also included, run `chmod 755 *.sh` if needed.
 
 1. Download/clone this project
-2. [Install MongoDB](http://docs.mongodb.org/manual/installation/#gsc.tab=0).
-3. [Install Node.js](http://nodejs.org/download/).
-4. In a command line 'window': npm install
+2. [Install Node.js](http://nodejs.org/download/).
+3. In a command line 'window': npm install
+4. Continue developing your project.
